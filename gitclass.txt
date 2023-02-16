@@ -1,1 +1,2 @@
 want to finialize git and use it now for my work
+adding more txt to this file just to do git add
